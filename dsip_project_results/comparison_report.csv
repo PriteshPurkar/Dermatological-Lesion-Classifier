@@ -1,0 +1,6 @@
+Image Name,ABCD Score,Risk Level,Diameter (mm),Circularity,Solidity,Border Irregularity
+lesion1,0.373,MEDIUM,152.6,0.785,1.000,0.215
+lesion2,0.381,MEDIUM,150.6,0.732,0.995,0.268
+lesion3,0.396,MEDIUM,151.9,0.733,0.992,0.267
+lesion4,0.402,MEDIUM,151.7,0.696,0.994,0.304
+lesion5,0.501,MEDIUM,115.1,0.194,0.847,0.806
